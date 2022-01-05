@@ -26,3 +26,13 @@ X
 Y
 Z
 Should we do numbers too?
+Uno 
+Dos
+Tres
+Cuatro
+Cinco
+Seis
+Siete
+Ocho
+Nueve
+Diez
