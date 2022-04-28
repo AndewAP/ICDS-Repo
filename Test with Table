@@ -1,0 +1,27 @@
+  <table> 
+      <tr> 
+        <th> Popular products</th>
+        <th> Creators</th>
+        <th> Contact Info</th>
+      </tr> 
+      <tr> 
+        <td> Adidas 4d FWD Shoes</td> 
+        <td> Hansel Emman</td> 
+        <td> HimU24@icloud.com</td>
+      </tr>
+      <tr> 
+        <td> Tiro 21 Track Pants</td>
+        <td> Kevin Slurant</td>
+        <td> easymoney7@yahoo.com</td>
+      </tr>
+      <tr> 
+        <td> Ultraboost 1.0 DNA Shoes</td>
+        <td> Ronaldo Jani</td> 
+        <td> Soccerisbest@gmail.com</td>
+      </tr>
+      <tr> 
+        <td> Team Issue Duffel Bag</td> 
+        <td> Pop Smoke</td> 
+        <td> freethewoo@hotmail.com</td>
+      </tr> 
+    </table>
